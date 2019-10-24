@@ -1,0 +1,5 @@
+D:\_project\_home\LearnAngular\LAAppDb\Database\bin\Debug\Database.dacpac
+D:\_project\_home\LearnAngular\LAAppDb\Database\obj\Debug\Database.dll
+D:\_project\_home\LearnAngular\LAAppDb\Database\obj\Debug\Database.pdb
+D:\_project\_home\LearnAngular\LAAppDb\Database\bin\Debug\Database.dll
+D:\_project\_home\LearnAngular\LAAppDb\Database\bin\Debug\Database.pdb

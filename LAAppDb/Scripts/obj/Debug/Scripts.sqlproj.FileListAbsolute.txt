@@ -1,0 +1,17 @@
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\Scripts.dacpac
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\Scripts.dll
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\Scripts.pdb
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\Database.dll
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\DataStructure.dll
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\Database.pdb
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\DataStructure.pdb
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\Database.dacpac
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\bin\Debug\DataStructure.dacpac
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\Scripts.sqlprojAssemblyReference.cache
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\Scripts.sqlproj.CopyComplete
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\Scripts.dll
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\Scripts.pdb
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\Model.xml
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\refactor.xml
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\postdeploy.sql
+D:\_project\_home\LearnAngular\LAAppDb\Scripts\obj\Debug\predeploy.sql
